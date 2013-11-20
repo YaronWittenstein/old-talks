@@ -1,0 +1,12 @@
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Demo2_5.exe.config
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Demo2_5.exe
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Demo2_5.pdb
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Abstractions.dll
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Client.Lightweight.dll
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Abstractions.pdb
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Abstractions.xml
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Client.Lightweight.pdb
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\bin\Debug\Raven.Client.Lightweight.xml
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\obj\Debug\Demo2_5.csprojResolveAssemblyReference.cache
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\obj\Debug\Demo2_5.exe
+D:\Dropbox\work\talks\10 Reasons to use RavenDB\temp\demos\src\Demo2_5\obj\Debug\Demo2_5.pdb
